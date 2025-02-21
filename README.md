@@ -1,7 +1,5 @@
 # QNX Timer with CURL - Fetch Quote Example
 
-This C program demonstrates how to use the QNX timer system in conjunction with libcurl to fetch a quote from an external API (Kanye REST API) periodically.
-
 ## Main points
 - Creates a timer using `timer_create()` and pulses to handle periodic events.
 - Uses libcurl to fetch a quote from the Kanye REST API.
